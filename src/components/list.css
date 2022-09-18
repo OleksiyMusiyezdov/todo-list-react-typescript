@@ -1,0 +1,29 @@
+.list-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 700px;
+  min-height: 30px;
+}
+
+.todo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  min-width: 700px;
+  min-height: 30px;
+  padding-right: 20px;
+}
+
+.text {
+  min-width: 350px;
+  padding-left: 20px;
+  text-align: left;
+}
+
+button {
+  margin-left: 1.5rem;
+}

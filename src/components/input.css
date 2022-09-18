@@ -1,0 +1,15 @@
+.input-block {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+  margin-left: 20px;
+}
+
+.textarea {
+  min-height: 30px;
+  padding-left: 10px;
+}
